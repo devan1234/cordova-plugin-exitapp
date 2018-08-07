@@ -1,23 +1,23 @@
 {
-  "_from": "git+https://github.com/gaqzi/cordova-plugin-exitapp.git",
+  "_from": "git+https://github.com/Anky001/cordova-plugin-exitapp.git",
   "_id": "cordova-plugin-exitapp@1.0.0",
   "_inBundle": false,
   "_location": "/cordova-plugin-exitapp",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/gaqzi/cordova-plugin-exitapp.git",
-    "rawSpec": "https://github.com/gaqzi/cordova-plugin-exitapp.git",
-    "saveSpec": "git+https://github.com/gaqzi/cordova-plugin-exitapp.git",
-    "fetchSpec": "https://github.com/gaqzi/cordova-plugin-exitapp.git",
+    "raw": "https://github.com/Anky001/cordova-plugin-exitapp.git",
+    "rawSpec": "https://github.com/Anky001/cordova-plugin-exitapp.git",
+    "saveSpec": "git+https://github.com/Anky001/cordova-plugin-exitapp.git",
+    "fetchSpec": "https://github.com/Anky001/cordova-plugin-exitapp.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/gaqzi/cordova-plugin-exitapp.git#1286ede7b8ead54cf8dfa600f64774848b0e266c",
-  "_spec": "https://github.com/gaqzi/cordova-plugin-exitapp.git",
+  "_resolved": "git+https://github.com/Anky001/cordova-plugin-exitapp.git#6d19ae2db7710340a9abc756d789221b6d48d365",
+  "_spec": "https://github.com/Anky001/cordova-plugin-exitapp.git",
   "_where": "/Users/ankitpant/Desktop/AMS/FD-2879-2/ionic-crew-notification",
   "author": {
     "name": "Rakesh Walisheter"
