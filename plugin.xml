@@ -30,6 +30,6 @@
         <param name="android-package" value="cordova.plugin.exitapp" />
       </feature>
     </config-file>
-    <source-file src="src/android/ExitApp.java" target-dir="src/cordova/custom/plugins/exitapp" />
+    <source-file src="src/android/ExitApp.java" target-dir="src/cordova/plugin/exitapp" />
   </platform>
 </plugin>
