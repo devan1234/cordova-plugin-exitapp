@@ -27,7 +27,7 @@
   },
   "bundleDependencies": false,
   "cordova": {
-    "id": "cordova-plugins-exitapp",
+    "id": "cordova-plugin-exitapp",
     "platforms": [
       "wp8",
       "android"
